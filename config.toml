@@ -3,7 +3,6 @@ languageCode = "pt-br" # "en-us"
 title = "Virtore Commerce"
 theme = "kross-hugo-portfolio-template"
 # summaryLength = "10"
-publishDir = "docs"
 
 # Plugins
 [params.plugins]
