@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sobre on Virtore Commerce</title>
+    <link>https://virtore.com/sobre/</link>
+    <description>Recent content in Sobre on Virtore Commerce</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Thu, 20 Jun 2019 21:11:34 +0600</lastBuildDate>
+    
+	<atom:link href="https://virtore.com/sobre/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
